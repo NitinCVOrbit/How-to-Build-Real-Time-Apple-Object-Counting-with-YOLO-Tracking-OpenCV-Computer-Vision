@@ -32,6 +32,11 @@ Download the input video used in this project:
 * 🔄 Center-point smoothing
 * 🎥 Real-time video visualization
 
+🎥 Tutorial
+
+Watch the complete tutorial on the CV Orbit YouTube channel.
+https://youtu.be/ybCzLHJdpbI
+
 ## ⭐ Use Cases
 
 This approach can be adapted for object counting applications in agriculture, manufacturing, retail, traffic monitoring, and surveillance.
