@@ -32,7 +32,7 @@ Download the input video used in this project:
 * 🔄 Center-point smoothing
 * 🎥 Real-time video visualization
 
-🎥 Tutorial
+##🎥 Tutorial
 
 Watch the complete tutorial on the CV Orbit YouTube channel.
 https://youtu.be/ybCzLHJdpbI
